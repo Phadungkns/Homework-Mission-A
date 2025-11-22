@@ -1,17 +1,17 @@
  # Homework Design Bootcamp
 
- # Mission A
+ ## Mission A
 
  - รองรับ Dasktop , Ipad
  - รองรับ DarkMode And LightMode
 
 
-# ผู้จัดทำ
+## ผู้จัดทำ
 - นายผดุงเกียรติ แนมไสย
 
-# Preveiw
+## Preveiw
 
-# Lightmode
+## Lightmode
 - Dasktop
 <img width="1137" height="885" alt="image" src="https://github.com/user-attachments/assets/8dc5c519-6f0d-4e67-8025-6dd12b43f323" />
 
@@ -20,7 +20,7 @@
 <img width="693" height="804" alt="image" src="https://github.com/user-attachments/assets/f915a934-e75a-4d60-a67e-a74ff5ac13ec" />
 
 
-# Darkmode 
+## Darkmode 
 - Dasktop
 <img width="1135" height="881" alt="image" src="https://github.com/user-attachments/assets/eb397c0c-1963-4590-99e4-99d87747170c" />
 
